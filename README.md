@@ -1,6 +1,6 @@
 # Introduction
 
-This repository contains trained reference sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) to taxonomically assign Diatom rbcL cpDNA sequences.  The latest releases can be downloaded from https://github.com/terrimporter/rbcLdiatomClassifier/releases
+This repository contains trained reference sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) to taxonomically assign diatom rbcL cpDNA sequences.  The latest releases can be downloaded from https://github.com/terrimporter/rbcLdiatomClassifier/releases
 
 ## Note
 
