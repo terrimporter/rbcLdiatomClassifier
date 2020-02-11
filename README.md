@@ -18,7 +18,7 @@ Wang et al. (2007) Naïve Bayesian classifier for rapid assignment of rRNA seque
 
 # Releases
 
-### SSU diatom v1.0
+### rbcL Diatom Classifier v1.0
 
 Created from the INRA R-Syst::diatom v7.1 dataset available at https://data.inra.fr/dataset.xhtml?persistentId=doi%3A10.15454%2FTOMBYZ (Rimet et al., 2016).  This version contains 3504 reference sequences and 1432 taxa at all ranks.
 
