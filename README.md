@@ -4,7 +4,7 @@ This repository contains trained reference sets that can be used with the Riboso
 
 ## Note
 
-This classifier is suitable for classifying diatom rbcL sequences to genus rank.  To classify a broader diversity of taxa, there is a Eukaryote rbcL reference set available at https://github.com/terrimporter/rbcLClassifier .
+This classifier is suitable for classifying diatom rbcL sequences to genus rank.  To classify a broader diversity of taxa, there is a eukaryote rbcL reference set available at https://github.com/terrimporter/rbcLClassifier .
 
 ## How to cite
 
