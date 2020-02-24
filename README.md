@@ -10,7 +10,7 @@ This classifier is suitable for classifying diatom rbcL sequences to genus rank.
 
 If you use this rbcL diatom reference set in a publication, please link to this page in your methods section and cite the diatom barcode database:
 
-Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and fr3eshwater monitoring.  Database: baw016. 
+Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
 
 If you use this reference set with the RDP classifier please also cite:
 
@@ -58,7 +58,7 @@ NA = No cutoff available will result in 95% correct assignments
 
 # References
 
-Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and fr3eshwater monitoring.  Database: baw016. 
+Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
 
 Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Classifier for Rapid Assignment of rRNA Sequences into the New Bacterial Taxonomy. Applied and Environmental Microbiology, 73(16), 5261–5267. Available from https://sourceforge.net/projects/rdp-classifier/
 
@@ -66,4 +66,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: February 11, 2020
+Last updated: February 24, 2020
