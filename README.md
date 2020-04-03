@@ -16,6 +16,16 @@ If you use this reference set with the RDP classifier please also cite:
 
 Wang et al. (2007) Naïve Bayesian classifier for rapid assignment of rRNA sequences into the new bacterial taxonomy. Applied and Environmental Microbiology, 73: 5261.
 
+## How to use
+
+Decompress the tar.gz file:
+
+$ tar -xvzf FileName.tar.gz
+
+Use with the RDP classifier:
+
+java -Xmx8g -jar /path/to/rdp_classifier_2.12/dist/classifier.jar classify -t /path/to/mydata_trained/rRNAClassifier.properties -o ClassifiedQueryFilename QueryFilename
+
 # Releases
 
 ### rbcL Diatom Classifier v1.0
@@ -66,4 +76,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: February 24, 2020
+Last updated: April 3, 2020
