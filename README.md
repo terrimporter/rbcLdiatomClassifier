@@ -8,7 +8,11 @@ This classifier is suitable for classifying diatom rbcL sequences to genus rank.
 
 ## How to cite
 
-If you use this rbcL diatom reference set in a publication, please link to this page in your methods section and cite the diatom barcode database:
+If you use the RDP-formatted rbcL diatom reference set in a publication, please cite:
+
+Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. BioRxiv, http://biorxiv.org/lookup/doi/10.1101/2020.05.25.115089.
+
+You can acknowledge the original diatom barcode database here:
 
 Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
 
@@ -76,4 +80,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: April 3, 2020
+Last updated: June 3, 2020
