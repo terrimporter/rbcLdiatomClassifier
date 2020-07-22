@@ -70,6 +70,20 @@ Species | NA | NA | NA | NA | NA
 
 NA = No cutoff available will result in 95% correct assignments
 
+#### Bootstrap support cutoffs, 90% accuracy:
+
+Rank | Full | 400 bp | 300 bp | 200 bp | 100 bp
+--- |:---:|:---:|:---:|:---:|:---:
+Domain | 0 | 0 | 0 | 0 | 0
+Kingdom | 0 | 0 | 0 | 0 | 0
+Subkingdom | 0 | 0 | 0 | 0 | 0
+Phylum | 0 | 0 | 0 | 0 | 0
+Class | 0 | 0 | 0 | 0 | 0
+Order | 0 | 0 | 0 | 0 | 20
+Family | 0 | 0 | 0 | 0 | 30
+Genus | 0 | 0 | 0 | 0 | 30
+Species | 95 | 90 | 90 | 90 | NA
+
 # References
 
 Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. BioRxiv, http://biorxiv.org/lookup/doi/10.1101/2020.05.25.115089.
@@ -82,4 +96,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: June 3, 2020
+Last updated: July 22, 2020
