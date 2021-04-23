@@ -14,7 +14,7 @@ Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshw
 
 You can acknowledge the original diatom barcode database here:
 
-Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
+Rimet, F., Gusev, E., Kahlert, M. et al. Diat.barcode, an open-access curated barcode library for diatoms. Sci Rep 9, 15116 (2019). https://doi.org/10.1038/s41598-019-51500-6
 
 If you use this reference set with the RDP classifier please also cite:
 
@@ -105,7 +105,7 @@ Species | 95 | 90 | 90 | 90 | NA
 
 Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. PLoS ONE, 15(11): e0242143.
 
-Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
+Rimet, F., Gusev, E., Kahlert, M. et al. Diat.barcode, an open-access curated barcode library for diatoms. Sci Rep 9, 15116 (2019). https://doi.org/10.1038/s41598-019-51500-6
 
 Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Classifier for Rapid Assignment of rRNA Sequences into the New Bacterial Taxonomy. Applied and Environmental Microbiology, 73(16), 5261–5267. Available from https://sourceforge.net/projects/rdp-classifier/
 
