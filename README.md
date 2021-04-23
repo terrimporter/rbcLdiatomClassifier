@@ -10,7 +10,7 @@ This classifier is suitable for classifying diatom rbcL sequences to genus rank.
 
 If you use the RDP-formatted rbcL diatom reference set in a publication, please cite:
 
-Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. BioRxiv, http://biorxiv.org/lookup/doi/10.1101/2020.05.25.115089.
+Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. PLoS ONE, 15(11): e0242143.
 
 You can acknowledge the original diatom barcode database here:
 
@@ -113,4 +113,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: March 31, 2021
+Last updated: April 23, 2021
