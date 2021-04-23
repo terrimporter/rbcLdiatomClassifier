@@ -103,7 +103,7 @@ Species | 95 | 90 | 90 | 90 | NA
 
 # References
 
-Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. BioRxiv, http://biorxiv.org/lookup/doi/10.1101/2020.05.25.115089.
+Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. PLoS ONE, 15(11): e0242143.
 
 Rimet, F., Chaumeil, P., Keck, F., Kermarrec, L., Vasselon, V., Kahlert, M., Franc, A., Bouchez, A. 2016.  R-Syst::diatom: an open-access and curated barcode database for diatoms and freshwater monitoring.  Database: baw016. 
 
