@@ -1,5 +1,7 @@
 # Introduction
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4741478.svg)](https://doi.org/10.5281/zenodo.4741478)  
+
 This repository contains trained reference sets that can be used with the Ribosomal Database Project classifier (Wang et al., 2007) to taxonomically assign diatom rbcL cpDNA sequences.  The latest releases can be downloaded from https://github.com/terrimporter/rbcLdiatomClassifier/releases
 
 ## Note
@@ -11,6 +13,9 @@ This classifier is suitable for classifying diatom rbcL sequences to genus rank.
 If you use the RDP-formatted rbcL diatom reference set in a publication, please cite:
 
 Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. PLoS ONE, 15(11): e0242143.
+
+You can also cite this repository directly:  
+rbcL Diatom Classifier, DOI: 10.5281/zenodo.4741478  
 
 You can acknowledge the original diatom barcode database here:
 
@@ -113,4 +118,4 @@ Wang, Q., Garrity, G. M., Tiedje, J. M., & Cole, J. R. (2007). Naive Bayesian Cl
 
 We acknowledge support from the Canadian federal Genomics Research & Development Initiative (GRDI), Metagenomics-Based Ecosystem Biomonitoring (Ecobiomics) project.
 
-Last updated: April 23, 2021
+Last updated: May 6, 2021
