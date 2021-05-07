@@ -1,4 +1,4 @@
-# Introduction
+# RbcL Diat.barcode Reference Set for The RDP Classifier
 
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.4741478.svg)](https://doi.org/10.5281/zenodo.4741478)  
 
@@ -15,9 +15,9 @@ If you use the RDP-formatted rbcL diatom reference set in a publication, please 
 Maitland, V. C., Robinson, C. V., Porter, T. M., & Hajibabaei, M. (2020). Freshwater diatom biomonitoring through benthic kick-net metabarcoding. PLoS ONE, 15(11): e0242143.
 
 You can also cite this repository directly:  
-rbcL Diatom Classifier, DOI: 10.5281/zenodo.4741478  
+Teresita M. Porter. (2020, June 5). RbcL Diat.barcode Reference Set For The RDP Classifier (Version v1.0.1). Zenodo. http://doi.org/10.5281/zenodo.4741478   
 
-You can acknowledge the original diatom barcode database here:
+Please also acknowledge the original diatom barcode database here:
 
 Rimet, F., Gusev, E., Kahlert, M. et al. Diat.barcode, an open-access curated barcode library for diatoms. Sci Rep 9, 15116 (2019). https://doi.org/10.1038/s41598-019-51500-6
 
